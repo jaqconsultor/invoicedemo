@@ -1,12 +1,15 @@
 org\openxava\invoicedemo\run\invoicedemo.class
+com\polizas\Sexo.class
 com\bancos\CuentasMovimientos.class
 com\bancos\Cuentas.class
 com\yourcompany\farmacia\model\ImprimirInventario.class
+com\polizas\Parentezco.class
 com\extensiones\Incrementable6.class
 com\extensiones\Identificable3.class
 com\extensiones\Identificable.class
 com\extensiones\Incrementable4.class
 org\openxava\invoicedemo\calculators\UnitPriceCalculator.class
+com\polizas\Polizas.class
 com\extensiones\Identificable4.class
 com\yourcompany\farmacia\model\CargaDeInventario.class
 org\openxava\invoicedemo\model\InvoiceDetail.class

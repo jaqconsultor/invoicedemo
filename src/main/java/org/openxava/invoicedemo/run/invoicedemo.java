@@ -11,7 +11,7 @@ import org.openxava.util.*;
 public class invoicedemo {
 
 	public static void main(String[] args) throws Exception {
-		DBServer.start("invoicedemo-db"); // To use your own database comment this line and configure web/META-INF/context.xml
+		//DBServer.start("invoicedemo-db"); // To use your own database comment this line and configure web/META-INF/context.xml
 		AppServer.run("invoicedemo"); // Use AppServer.run("") to run in root context
 	}
 
